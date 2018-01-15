@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 var react = require('gulp-react');
 
-var js_files = ['js/*.js'];
+var js_files = ['src/*.js', 'src/*.jsx', 'src/**/*.js', 'src/**/*.jsx'];
 var DEST = 'dist';
 
 gulp.task('default', defaultTask);
