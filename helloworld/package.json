@@ -1,0 +1,24 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gopi",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-react": "^6.24.1",
+    "gulp": "^4.0.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-cli": "^2.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-react": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "serve": "^6.4.8"
+  }
+}
