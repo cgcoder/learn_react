@@ -24,14 +24,14 @@ function down(obj) {
   alert(obj);
 }
 
-/*
 ReactDOM.render(
-  <Counter counterValue="10" className="testCounter" onCountUp={up} onCountDown={down} />,
+  <Counter counterValue="5" className="testCounter" onCountUp={up} onCountDown={down} />,
   document.getElementById('app')
 );
-*/
 
+/*
 ReactDOM.render(
   <Clock />,
   document.getElementById('app')
 );
+*/
